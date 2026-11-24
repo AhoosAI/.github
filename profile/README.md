@@ -26,5 +26,5 @@ and how to bring the cost of capable AI within everyone's reach. Every claim we 
 <p align="center">
   <a href="https://ahoos-ai.site">ahoos-ai.site</a> ·
   <a href="https://huggingface.co/AhoosAI-Research">Hugging Face</a> ·
-  <a href="https://x.com/ahoosai_Official">X</a>
+  <a href="https://x.com/AhoosAIResearch">X</a>
 </p>
